@@ -1,5 +1,11 @@
 # About Me:
-I’m currently working on Artificial Intelligence & Machine Learning.<br>I’m looking to collaborate on Python & ML Projects.<br>I’m looking for help with Deep Learning, NLP, and advanced model optimization.<br>I’m currently learning Data Structures & Algorithms, Neural Networks, and Generative AI.<br>Ask me about Python, Machine Learning basics, and problem-solving approaches.<br>Link to my Portfolio - 
+- Currently working on **Artificial Intelligence & Machine Learning** projects.<br>  
+- Open to collaborating on **Python and ML-based projects**.<br>
+- Seeking guidance in **Deep Learning, NLP, and advanced model optimization**.<br>
+- Learning **Data Structures & Algorithms, Neural Networks, and Generative AI**.<br> 
+- Happy to discuss **Python, Machine Learning fundamentals, and problem-solving strategies**.<br>
+- Portfolio: https://annieportfolio1.netlify.app/ <br>
+
 
 
 ## Socials:
