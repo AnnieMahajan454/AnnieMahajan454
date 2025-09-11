@@ -3,9 +3,7 @@
 - Open to collaborating on **Python and ML-based projects**.
 - Seeking guidance in **Deep Learning, NLP, and advanced model optimization**. 
 - Learning **Data Structures & Algorithms, Neural Networks, and Generative AI**.
-- Happy to discuss **Python, Machine Learning fundamentals, and problem-solving strategies**.
-
-🌐 Portfolio: [annieportfolio1.netlify.app](https://annieportfolio1.netlify.app/)  
+- Happy to discuss **Python, Machine Learning fundamentals, and problem-solving strategies**. 
 
 
 ## 🌍 Socials
@@ -69,7 +67,6 @@
 
 
 # 🚀 Projects   
-- **[Portfolio Website](https://annieportfolio1.netlify.app/)** – Personal portfolio showcasing my work, skills, and achievements.
 - **[Autonomous Fire-Fighting Robot](#)** – Built a robot detecting flames & high temperatures with IR/temperature sensors, navigating with obstacle avoidance, and activating water pump for suppression. 
 
 *(Currently working on various other projects which integrates AI/ML, ROS, Arduino...)*  
