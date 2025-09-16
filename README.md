@@ -1,83 +1,122 @@
-# 👩‍💻 About Me
-- Currently working on **Artificial Intelligence & Machine Learning** projects. 
-- Open to collaborating on **Python and ML-based projects**.
-- Seeking guidance in **Deep Learning, NLP, and advanced model optimization**. 
-- Learning **Data Structures & Algorithms, Neural Networks, and Generative AI**.
-- Happy to discuss **Python, Machine Learning fundamentals, and problem-solving strategies**. 
+# 👩‍💻 About Me  
+I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Analysis, and Machine Learning**, complemented by hands-on experience in **Full-Stack Development**. I enjoy transforming data into insights and building scalable, intelligent applications.  
+
+- Working on **AI, Machine Learning, and Data Science** projects  
+- Open to collaborating on **Python, ML, and analytics-focused work**  
+- Expanding knowledge in **Deep Learning, NLP, and Generative AI**  
+- Passionate about **problem-solving and applying ML to real-world use cases**  
 
 
-## 🌍 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annie-mahajan-1v7i0v4u/) 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/AnnieMahajan/) 
-
-
-# 🛠️ Tech Stack
-
-### Programming Languages  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-### Web & App Development  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-
-### Databases  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-
-### Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-
-### AI / ML & Data Science  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
-
-### Tools & Others  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-
-### Design  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) 
-
-
-# 🚀 Projects   
-- **[Autonomous Fire-Fighting Robot](#)** – Built a robot detecting flames & high temperatures with IR/temperature sensors, navigating with obstacle avoidance, and activating water pump for suppression. 
-
-*(Currently working on various other projects which integrates AI/ML, ROS, Arduino...)*  
-
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AnnieMahajan454&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnnieMahajan454&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieMahajan454&theme=dark&hide_border=false&count_private=true&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AnnieMahajan454&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🛠️ Skills & Tech Stack  
+
+<details>
+<summary><b>📊 Data Analysis & Visualization</b></summary>
+
+| Tools | Skills |
+|-------|--------|
+| ![Python](https://skillicons.dev/icons?i=python) ![R](https://skillicons.dev/icons?i=r) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | Data Wrangling, Statistical Analysis, Data Cleaning |
+| ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | Visualization, Dashboarding, Reporting |
+
+</details>  
+
+---
+
+<details>
+<summary><b>🤖 Machine Learning & AI</b></summary>
+
+| Frameworks | Focus Areas |
+|------------|-------------|
+| ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | Predictive Modeling, Neural Networks, Computer Vision |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | Data Manipulation, Feature Engineering, Model Optimization |
+
+</details>  
+
+---
+
+<details>
+<summary><b>🌐 Full-Stack Development</b></summary>
+
+| Frontend | Backend | Databases |
+|----------|---------|-----------|
+| ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=00DC82) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Flutter](https://skillicons.dev/icons?i=flutter) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white) |
+
+</details>  
+
+---
+
+<details>
+<summary><b>☁️ Cloud, DevOps & Infra</b></summary>
+
+| Platforms | Tools |
+|-----------|-------|
+| ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) | Cloud Infrastructure, CDN, Hosting |
+| ![Netlify](https://skillicons.dev/icons?i=netlify) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Docker](https://skillicons.dev/icons?i=docker) ![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white) | CI/CD, Deployment, Containers |
+
+</details>  
+
+---
+
+<details>
+<summary><b>🎨 Design & Tools</b></summary>
+
+| Design | Productivity |
+|--------|--------------|
+| ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D?style=flat-square&logo=adobefonts&logoColor=white) | ![GitHub](https://skillicons.dev/icons?i=github) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white) |
+
+</details>  
+
+---
+
+## 📈 Tech Radar (Proficiency-Based)  
+
+<p align="center">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AnnieMahajan454
+  &skills=Python-Advanced,R-Intermediate,SQL-Advanced,PowerBI-Intermediate,Tableau-Intermediate,Excel-Advanced,
+  TensorFlow-Intermediate,Scikit-learn-Intermediate,OpenCV-Intermediate,Pandas-Advanced,NumPy-Advanced,NVIDIA-Intermediate,
+  JavaScript-Intermediate,React-Intermediate,NextJS-Intermediate,NuxtJS-Beginner,NodeJS-Intermediate,Express-Intermediate,Flutter-Beginner,
+  MySQL-Advanced,MongoDB-Intermediate,Oracle-Beginner,DynamoDB-Beginner,Couchbase-Beginner,
+  AWS-Intermediate,Azure-Intermediate,Cloudflare-Beginner,Netlify-Intermediate,Vercel-Intermediate,Docker-Beginner,Apache-Beginner,
+  GitHub-Advanced,Arduino-Intermediate,Powershell-Beginner,WindowsTerminal-Intermediate,
+  Canva-Advanced,AdobePhotoshop-Intermediate,AdobeAfterEffects-Beginner,AdobeFonts-Intermediate
+  &show-other-skills=true" 
+  alt="Tech Radar Chart" />
+</p>  
+
+---
+
+# 🚀 Featured Projects  
+
+- [**SaaS Contracts Dashboard**](https://github.com/AnnieMahajan454/SaaS-Contracts-Dashboard) – Designed an interactive dashboard with cost analytics, improving SaaS expense tracking.  
+- [**Smart Construction Planner**](https://github.com/AnnieMahajan454/Smart-Construction-Planner) – Built an ML model for workflow optimization and cost predictions in construction projects.  
+- [**Hack4Health**](https://github.com/AnnieMahajan454/Hack4Health) – Developed a CNN-based solution for CT scan anomaly detection to support early diagnostics.  
+- [**Autonomous Fire-Fighting Robot**](#) – IoT + AI hardware project with fire detection, navigation, and suppression system.  
+- [**MERN Full-Stack Task Manager**](https://github.com/AnnieMahajan454/MERN-Full-Stack) – Created a task management app with authentication using the MERN stack.  
+
+*(More projects available in my repositories – spanning AI/ML, IoT, and full-stack development.)*  
+
+---
+
+# 🎯 Career Interests  
+- **Data Analyst / Data Scientist** – transforming data into insights and predictions  
+- **Machine Learning Engineer** – building predictive models & deploying AI solutions  
+- **Full-Stack Developer (AI-focused)** – integrating analytics & ML into scalable web apps  
+
+---
+
+# ⚡ GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnieMahajan454&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnnieMahajan454&theme=tokyonight&utcOffset=8" alt="Commits" />
+</p>
+
+<p align="center">
+  <!-- Show ALL languages (up to x instead of just top 6) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieMahajan454&langs_count=200&layout=compact&theme=tokyonight&hide_border=false&count_private=true" alt="All Languages" /></p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AnnieMahajan454&icon=0&color=0)](https://visitcount.itsvg.in)  
