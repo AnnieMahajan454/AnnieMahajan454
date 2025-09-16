@@ -70,23 +70,6 @@ I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Ana
 
 ---
 
-## 📈 Tech Radar (Proficiency-Based)  
-
-<p align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AnnieMahajan454
-  &skills=Python-Advanced,R-Intermediate,SQL-Advanced,PowerBI-Intermediate,Tableau-Intermediate,Excel-Advanced,
-  TensorFlow-Intermediate,Scikit-learn-Intermediate,OpenCV-Intermediate,Pandas-Advanced,NumPy-Advanced,NVIDIA-Intermediate,
-  JavaScript-Intermediate,React-Intermediate,NextJS-Intermediate,NuxtJS-Beginner,NodeJS-Intermediate,Express-Intermediate,Flutter-Beginner,
-  MySQL-Advanced,MongoDB-Intermediate,Oracle-Beginner,DynamoDB-Beginner,Couchbase-Beginner,
-  AWS-Intermediate,Azure-Intermediate,Cloudflare-Beginner,Netlify-Intermediate,Vercel-Intermediate,Docker-Beginner,Apache-Beginner,
-  GitHub-Advanced,Arduino-Intermediate,Powershell-Beginner,WindowsTerminal-Intermediate,
-  Canva-Advanced,AdobePhotoshop-Intermediate,AdobeAfterEffects-Beginner,AdobeFonts-Intermediate
-  &show-other-skills=true" 
-  alt="Tech Radar Chart" />
-</p>  
-
----
-
 # 🚀 Featured Projects  
 
 - [**SaaS Contracts Dashboard**](https://github.com/AnnieMahajan454/SaaS-Contracts-Dashboard) – Designed an interactive dashboard with cost analytics, improving SaaS expense tracking.  
