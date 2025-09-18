@@ -75,7 +75,7 @@ I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Ana
 - [**SaaS Contracts Dashboard**](https://github.com/AnnieMahajan454/SaaS-Contracts-Dashboard) – Designed an interactive dashboard with cost analytics, improving SaaS expense tracking.  
 - [**Smart Construction Planner**](https://github.com/AnnieMahajan454/Smart-Construction-Planner) – Built an ML model for workflow optimization and cost predictions in construction projects.  
 - [**Hack4Health**](https://github.com/AnnieMahajan454/Hack4Health) – Developed a CNN-based solution for CT scan anomaly detection to support early diagnostics.  
-- [**Autonomous Fire-Fighting Robot**](#) – IoT + AI hardware project with fire detection, navigation, and suppression system.  
+- [**Autonomous Fire-Fighting Robot**] – IoT + AI hardware project with fire detection, navigation, and suppression system.  
 - [**MERN Full-Stack Task Manager**](https://github.com/AnnieMahajan454/MERN-Full-Stack) – Created a task management app with authentication using the MERN stack.  
 
 *(More projects available in my repositories – spanning AI/ML, IoT, and full-stack development.)*  
