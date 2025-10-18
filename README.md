@@ -116,5 +116,5 @@ I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Ana
 [![](https://visitcount.itsvg.in/api?id=AnnieMahajan454&icon=0&color=0)](https://visitcount.itsvg.in)  
 <!-- Animated Footer -->
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=Let's%20Connect%20and%20Innovate!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=Let's%20Connect%20and%20Innovate!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" />
 </div>
