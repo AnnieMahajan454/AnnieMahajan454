@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Annie%20Mahajan&fontSize=70&fontAlignY=35&descAlignY=55&descSize=26&descAlign=0&fontAlign=50&desc=Data%20Science%20|%20AI/ML%20Enthusiast%20|%20Pre-Final%20Year%20B.Tech%20Student&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Annie%20Mahajan&fontSize=70&fontAlignY=35&descAlignY=55&descSize=27&descAlign=0&fontAlign=50&desc=Data%20Science%20|%20AI/ML%20Enthusiast%20|%20Pre-Final%20Year%20B.Tech%20Student&textBg=false" />
 </div>
 
 <div align="center">
