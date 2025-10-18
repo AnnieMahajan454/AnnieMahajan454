@@ -1,3 +1,12 @@
+<!-- Animated Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Annie%20Mahajan&fontSize=70&fontAlignY=35&descAlignY=55&descSize=26&descAlign=0&fontAlign=50&desc=Data%20Science%20|%20AI/ML%20Enthusiast%20|%20Pre-Final%20Year%20B.Tech%20Student&textBg=false" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Animation" width="80%" style="max-width:300px; border-radius: 8px; margin-top: 10px;"/>
+</div>
+---
 # 👩‍💻 About Me  
 I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Analysis, and Machine Learning**, complemented by hands-on experience in **Full-Stack Development**. I enjoy transforming data into insights and building scalable, intelligent applications.  
 
@@ -103,3 +112,7 @@ I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Ana
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AnnieMahajan454&icon=0&color=0)](https://visitcount.itsvg.in)  
+<!-- Animated Footer -->
+<div align="center">
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=Let's%20Connect%20and%20Innovate!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+</div>
