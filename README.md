@@ -110,8 +110,7 @@ I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Ana
 </p>
 
 <p align="center">
-  <!-- Show ALL languages (up to x instead of just top 6) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieMahajan454&langs_count=20&layout=compact&theme=tokyonight&hide_border=false&count_private=true" alt="All Languages" /></p>
+  
   
 <!-- Animated Footer -->
 <div align="center">
