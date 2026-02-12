@@ -98,11 +98,10 @@ I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Ana
 # 🎯 Career Interests  
 - **Data Analyst / Data Scientist** – transforming data into insights and predictions  
 - **Machine Learning Engineer** – building predictive models & deploying AI solutions  
-- **Full-Stack Developer (AI-focused)** – integrating analytics & ML into scalable web apps  
 
 ---
 
-# ⚡ GitHub Statistics  
+# GitHub Statistics  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnieMahajan454&theme=tokyonight" alt="GitHub Stats" />
