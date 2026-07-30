@@ -1,43 +1,193 @@
-<!-- Animated Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=002D62&text=Annie%20Mahajan&fontSize=60&fontColor=ffffff&fontAlignY=35&descAlignY=55&descSize=27&descAlign=0&fontAlign=50&desc=Data%20Science%20|%20AI/ML%20Enthusiast%20|%20Pre-Final%20Year%20B.Tech%20Student&textBg=false" />
-</div>
+<h1 align="center">Hi 👋, I'm Annie Mahajan</h1>
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Animation" width="80%" style="max-width:300px; border-radius: 8px; margin-top: 10px;"/>
-</div>
-
----
-
-# 👩‍💻 About Me  
-I am a **Data & AI/ML Enthusiast** with strong foundations in **Python, Data Analysis, and Machine Learning**, complemented by hands-on experience in **Full-Stack Development**. I enjoy transforming data into insights and building scalable, intelligent applications.  
-
-- Working on **AI, Machine Learning, and Data Science** projects  
-- Open to collaborating on **Python, ML, and analytics-focused work**  
-- Expanding knowledge in **Deep Learning, NLP, and Generative AI**  
-- Passionate about **problem-solving and applying ML to real-world use cases**  
-
----
-
-# 🎯 Career Interests  
-- **Data Analyst / Data Scientist** – transforming data into insights and predictions  
-- **Machine Learning Engineer** – building predictive models & deploying AI solutions  
-
----
-
-# GitHub Statistics  
+<h3 align="center">
+Computer Science (AI & Robotics) Undergraduate | Data Analytics | AI | Backend Development
+</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnieMahajan454&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnnieMahajan454&theme=tokyonight&utcOffset=8" alt="Commits" />
+I enjoy solving real-world problems using AI, data analytics, and scalable software systems. Currently seeking Software Engineering, Data Analytics, AI, and Product roles.
 </p>
 
+---
+
+## 👩‍💻 About Me
+
+🎓 B.Tech CSE (AI & Robotics), VIT Chennai
+
+📊 Interested in
+- Data Analytics
+- Artificial Intelligence
+- Backend Development
+- Product Analytics
+
+🌱 Currently Learning
+
+- Spring Boot
+- Machine Learning
+- System Design
+- Advanced SQL
+- Data Visualization
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 EVision
+
+AI-powered connected vehicle analytics platform
+
+- Battery Health Prediction
+- Range Prediction
+- Charging Optimization
+- Dashboard Visualization
+
+---
+
+### 🤖 Guardian Bot
+
+Autonomous elderly monitoring robot
+
+- Human Detection
+- Emergency Alerts
+- Indoor Navigation
+- AI-based Monitoring
+
+---
+
+### 🏗 Smart Construction Planner
+
+Machine Learning platform for
+
+- Cost Prediction
+- Timeline Estimation
+- Material Demand Forecasting
+
+---
+
+### 📋 MERN Task Management System
+
+- Employee Dashboard
+- Timesheet Tracking
+- Attendance
+- Authentication
+- MongoDB
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+---
+
+### Backend
+
+Spring Boot
+
+Node.js
+
+REST APIs
+
+Microservices
+
+---
+
+### Frontend
+
+React
+
+HTML
+
+CSS
+
+Tailwind CSS
+
+---
+
+### Databases
+
+MySQL
+
+PostgreSQL
+
+MongoDB
+
+---
+
+### AI & Data
+
+TensorFlow
+
+Scikit-Learn
+
+Pandas
+
+NumPy
+
+Power BI
+
+Excel
+
+---
+
+### Tools
+
+Git
+
+GitHub
+
+Docker
+
+Linux
+
+Postman
+
+VS Code
+
+---
+
+## 📈 GitHub Statistics
+
 <p align="center">
-  
-  
-<!-- Animated Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=002D62&height=160&section=footer&text=Let's%20Connect%20and%20Innovate!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnnieMahajan454&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnieMahajan454&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieMahajan454&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 Certifications
+
+✅ Oracle Generative AI Professional
+
+✅ Oracle Data Science Professional
+
+✅ Oracle Java Foundations
+
+✅ Google Cloud Digital Leader
+
+✅ HackerRank SQL (Basic, Intermediate, Advanced)
+
+✅ Atlassian Jira Service Management with AI
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/annie-mahajan-1v7i0v4u/)
+
+Email: mahajanannie411@gmail.com
+
+---
