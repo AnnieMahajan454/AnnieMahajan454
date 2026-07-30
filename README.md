@@ -1,3 +1,8 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=800&color=2E9EF7&center=true&vCenter=true&width=800&lines=AI+%26+Robotics+Student;Data+Analytics+Enthusiast;Backend+Developer;Always+Learning+Something+New"/>
+
+</p>
 <h1 align="center">Hi 👋, I'm Annie Mahajan</h1>
 
 <h3 align="center">
@@ -191,3 +196,13 @@ VS Code
 Email: mahajanannie411@gmail.com
 
 ---
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AnnieMahajan454&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnnieMahajan454&theme=tokyonight&margin-w=15&row=1"/>
+
+</p>
