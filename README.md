@@ -206,3 +206,8 @@ Email: mahajanannie411@gmail.com
 <img src="https://github-profile-trophy.vercel.app/?username=AnnieMahajan454&theme=tokyonight&margin-w=15&row=1"/>
 
 </p>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AnnieMahajan454/AnnieMahajan454/output/github-contribution-grid-snake.svg"/>
+
+</p>
