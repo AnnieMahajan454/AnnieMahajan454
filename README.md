@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3400&pause=700&color=2E9EF7&center=true&vCenter=true&width=800&lines=Software+Engineering+%26+Data+Analytics;IEEE+Published+Researcher;Always+Learning+Something+New"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Annie Mahajan</h1>
+<h1 align="center">Hi, I'm Annie Mahajan</h1>
 
 <p align="center">
 <b>Computer Science (AI & Robotics) Undergraduate @ VIT Chennai</b><br>
@@ -10,7 +10,7 @@ Building Intelligent & Data-Driven Software Solutions
 </p>
 
 <p align="center">
-Always building, always learning — currently exploring the intersection of software engineering, data analytics, and product management.
+Exploring the intersection of software engineering, data analytics, and product management.
 </p>
 
 <p align="center">
@@ -28,9 +28,13 @@ Always building, always learning — currently exploring the intersection of sof
 ## About Me
 
 🎓 B.Tech CSE (AI & Robotics) @ VIT Chennai, Final Year
+
 📄 Published IEEE researcher — AI-driven path planning for CT-guided surgical navigation
+
 💡 Passionate about AI, Data Analytics & Software Engineering
+
 🚀 Building scalable software and intelligent applications
+
 🎯 Seeking opportunities in Software Engineering, Data Analytics & Product/Program Management
 
 ## Featured Projects
@@ -54,14 +58,6 @@ Always building, always learning — currently exploring the intersection of sof
 <p align="center">
 <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=AnnieMahajan454&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AnnieMahajan454&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AnnieMahajan454&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnieMahajan454&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
