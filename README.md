@@ -29,7 +29,7 @@ Exploring the intersection of software engineering, data analytics, and product 
 
 🎓 B.Tech CSE (AI & Robotics) @ VIT Chennai, Final Year
 
-📄 Published IEEE researcher — AI-driven path planning for CT-guided surgical navigation
+📄 Published IEEE researcher - AI-driven path planning for CT-guided surgical navigation
 
 💡 Passionate about AI, Data Analytics & Software Engineering
 
