@@ -1,204 +1,73 @@
-# Hi, I'm Annie 👋
+<h1 align="center">Annie Mahajan</h1>
 
-<p>
-  <a href="https://www.linkedin.com/in/annie-mahajan-1v7i0v4u/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <b>CSE (AI & Robotics) @ VIT Chennai</b>
+  <br>
+  <sub>Software Engineering · AI/ML · Data Science · Product & Program</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/annie-mahajan-1v7i0v4u/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:mahajanannie411@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mahajanannie411@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&width=600\&height=38\&lines=Computer+Science+%7C+AI+%26+Robotics;Software+%26+AI%2FML;Data+%26+Analytics;Product+%26+Program+Management;Building+%7C+Analyzing+%7C+Solving)](https://git.io/typing-svg)
-
-I'm a **Computer Science & Engineering (AI & Robotics)** undergraduate at **Vellore Institute of Technology, Chennai**, graduating in 2027.
-
-My interests sit at the intersection of **software engineering, artificial intelligence, machine learning, data analytics, and product/program execution**. I enjoy working across the technical and business sides of a problem — from building solutions and analyzing data to translating requirements into actionable outcomes.
-
-I've gained experience through **software/data-oriented projects, business analytics, product & operations, leadership, and research**. My work has included SQL and Python-based analytics, Power BI dashboards, workflow optimization, data-driven decision making, and AI research.
-
-I'm particularly interested in opportunities where **technology, data, and structured problem-solving come together to build useful products and scalable solutions.**
-
----
-
-## 🛠️ Tools I've Used
-
-### 💻 Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="38" height="38"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+with+Software+%26+AI;Turning+Data+into+Insights;Exploring+Intelligent+Systems" />
 </p>
 
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38"/>
-</p>
-
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-* Large Language Models
-* Data Analysis
-* Statistical Modeling
-
-### 📊 Data & Analytics
-
-* SQL
-* Python
-* Pandas
-* Power BI
-* Advanced Excel
-* Tableau
-* KPI Analysis
-* Data Visualization
-
-### ⚙️ Development & Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="38" height="38"/>
-</p>
-
-* Git & GitHub
-* Figma
-* Jira
-* CRM Tools
-* Microsoft Excel
-
----
-
-
-## 💼 Experience
-
-### Product & Business Operations Intern
-
-**Jay Kay Enterprises** · May 2026 – Jul 2026
-
-* Mapped end-to-end operational workflows and performed root-cause analysis on process bottlenecks.
-* Used Microsoft Excel to develop KPI reports and translate operational findings into data-driven recommendations.
-* Worked with cross-functional teams to define requirements, track milestones, and document SOPs.
-* Supported process improvements and structured execution across operational workflows.
-
-### Business Analyst Intern
-
-**Sentrix Robotics Pvt. Ltd.** · Sep 2025 – Dec 2025
-
-* Analyzed CRM and operational datasets using **SQL, Python, and Power BI**.
-* Identified performance trends and converted analysis into actionable business insights.
-* Built interactive dashboards and automated reporting workflows.
-* Worked cross-functionally to translate ambiguous requirements into structured analytical reports.
-
----
-
-## 🔬 Research & Publications
-
-### AI-Driven Anomaly Detection in CT-Guided Procedures
-
-Published research presented at **CINS 2025, BITS Pilani Dubai** and indexed on IEEE Xplore.
-
-My research interests include **AI/ML applications, intelligent systems, anomaly detection, and applied artificial intelligence**.
-
----
-
-## 👥 Leadership
-
-### Operations Manager — Event Managers Club, VIT Chennai
-
-* Led **25+ member cross-functional teams** in planning and executing **300+ university events**.
-* Supported events serving **10,000+ participants**.
-* Managed resource allocation, delegation, scheduling, and execution under strict deadlines.
-* Coordinated across committees to prioritize deliverables and resolve execution blockers.
-
-This experience strengthened my interest in **program management, cross-functional execution, stakeholder coordination, and operational problem solving**.
-
----
-
-## 🏆 Certifications & Recognition
-
-* 🏆 **OCI Generative AI Professional — Oracle**
-* ☁️ **AWS Academy — Cloud Architecting**
-* 📊 **Oracle Data Science Professional**
-* 💻 **Python, C & C++ — IIT Bombay**
-* 🗄️ **HackerRank SQL**
-* 📊 **Advanced Excel**
-* 📋 **Operations Management — Udemy**
-* 🏅 **Visteon Scholar Program 2025**
-* 🏆 **Myntra WeForShe HackerRamp 2025**
-
----
-
-## 🧠 Areas of Interest
+### `> about_me`
 
 ```text
-Software Engineering
-Artificial Intelligence
-Machine Learning
-Generative AI
-Data Science & Analytics
-Data Engineering
-Product Management
-Program / Project Management
-Business Analytics
-Research
+Computer Science undergraduate graduating in 2027.
+Interested in building practical solutions across
+software, AI/ML and data.
+
+Currently exploring:
+Software Engineering • Machine Learning • Generative AI
+Data Science • Analytics • Product & Program Management
 ```
 
----
-
-## 🌱 Currently Learning
-
-* 🧩 Data Structures & Algorithms
-* 🤖 Generative AI & LLMs
-* 🧠 Machine Learning
-* 📊 Advanced Data Analytics
-* 💻 Software Engineering
-* ☁️ Cloud Technologies
-* 📋 Product & Program Management
-
----
-
-## 📊 GitHub Stats
+### `> tech_stack`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnnieMahajan454&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieMahajan454&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,mysql,git,github,figma&perline=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnnieMahajan454&theme=tokyonight&hide_border=true" height="180px"/>
+  <code>Machine Learning</code>
+  <code>Generative AI</code>
+  <code>Pandas</code>
+  <code>Power BI</code>
+  <code>Statistical Modeling</code>
 </p>
+
+### `> experience`
+
+<table>
+<tr>
+<td><b>Business Analyst</b><br>Sentrix Robotics</td>
+<td><b>Product & Business Operations</b><br>Jay Kay Enterprises</td>
+<td><b>Operations Manager</b><br>Event Managers Club · VIT</td>
+</tr>
+</table>
+
+### `> research`
+
+**AI-Driven Anomaly Detection in CT-Guided Procedures**
+
+`CINS 2025` · `BITS Pilani Dubai`
+
+<a href="https://ieeexplore.ieee.org/document/11412219">View publication →</a>
+
+### `> recognition`
+
+<p align="center"> <img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> </p> <p align="center"> <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/IIT%20Bombay-Python%20%7C%20C%20%7C%20C%2B%2B-1F4E79?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/HackerRank-SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/> <img src="https://img.shields.io/badge/Advanced%20Excel-Data%20Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Udemy-Operations%20Management-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/> <img src="https://img.shields.io/badge/Myntra-WeForShe%20HackerRamp%202025-FF3F6C?style=for-the-badge"/> </p>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnnieMahajan454&style=for-the-badge" alt="Profile Views"/>
+  <b>Build. Analyze. Learn. Repeat.</b>
 </p>
-
----
-
-## 📫 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/annie-mahajan-1v7i0v4u/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Annie%20Mahajan-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mahajanannie411@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building with technology. Learning through problems. Creating useful solutions.</i>
-</p>
-
-<!--
-**AnnieMahajan454/AnnieMahajan454** is a ✨ special ✨ repository because its README.md
-appears on your GitHub profile.
--->
